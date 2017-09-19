@@ -2,8 +2,9 @@
 
 Plugin for [YOURLS](http://yourls.org)
 
-* Plugin URI:       [github.com/tdakanalis/bulk_api_bulkshortener](https://github.com/tdakanalis/bulk_api_bulkshortener)
-* Description:      A YOURLS plugin allowing the expanding of multiple URLs with one API request. Inspired by: [github.com/tdakanalis/bulk_api_bulkshortener](https://github.com/tdakanalis/bulk_api_bulkshortener)
+* Plugin URI:       [https://github.com/felix-manea/bulk_api_bulk_expander](https://https://github.com/felix-manea/bulk_api_bulk_expander)
+* Description:      A YOURLS plugin allowing the expanding of multiple URLs with one API request. 
+* Inspired by: 		[github.com/tdakanalis/bulk_api_bulkshortener](https://github.com/tdakanalis/bulk_api_bulkshortener)
 * Version:          1.0
 * Release date:     2017-09-19
 * Author:           Felix Manea
